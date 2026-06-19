@@ -5,7 +5,7 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 </h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/veerlapati-ravi-varma-06b7a3335/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
@@ -13,7 +13,7 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
+  <a href="https://leetcode.com/u/Ravi-varma/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
