@@ -19,7 +19,7 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=800&height=60&duration=3000&lines=AI%2FML+Engineer;Generative+AI+Developer;LangChain+%26+LangGraph+Developer;LeetCode+Knight;750%2B+DSA+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=900&height=60&duration=3000&lines=AI%2FML+Engineer;Generative+AI+Developer;LangChain+%26+LangGraph+Developer;LeetCode+Knight;750%2B+DSA+Problems+Solved" />
 </p>
 
 ---
@@ -43,18 +43,16 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 
 🏆 **LeetCode Knight (1926 Max Rating)**
 
-💡 Interested in building AI Agents, RAG Applications, Multi-Agent Systems, and ML Pipelines
+💡 Interested in building AI Agents, Multi-Agent Systems, RAG Applications, and End-to-End ML Pipelines
 
 ---
 
 # 🚀 Languages & Databases
 
 <p align="left">
-
 <img src="https://skillicons.dev/icons?i=python" />
 <img src="https://skillicons.dev/icons?i=mysql" />
 <img src="https://skillicons.dev/icons?i=sqlite" />
-
 </p>
 
 ---
@@ -121,7 +119,7 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Nunito&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/Ravi-varma?theme=dark&font=Nunito&ext=contest" />
 
 </p>
 
@@ -157,14 +155,15 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 
 # 🚀 Featured Projects
 
-## 🤖 Multi-Agent Research Assistant
+## 🤖 Multi-Agent Research Assistant using LangGraph & MCP
 
-- LangGraph
-- MCP
-- Agent Workflows
+- Multi-Agent Architecture
+- LangGraph State Management
+- MCP Integration
 - Tool Calling
 - Memory Management
 - Ollama
+- Workflow Automation
 
 ---
 
@@ -172,15 +171,17 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 
 - Retrieval-Augmented Generation
 - Natural Language to SQL
+- Schema-Aware Query Generation
 - Ollama
 - Vector Search
 - Structured Data Querying
 
 ---
 
-## ⚙️ Automated ML Pipeline
+## ⚙️ Automated End-to-End ML Pipeline
 
 - Data Preprocessing
+- Missing Value Handling
 - Feature Engineering
 - Model Selection
 - Scikit-Learn
@@ -191,9 +192,9 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 
 # 🎯 Competitive Programming
 
-✔ Solved 750+ LeetCode Problems
+✔ Solved **750+ LeetCode Problems**
 
-✔ LeetCode Knight
+✔ **LeetCode Knight**
 
 ✔ Strong in:
 
@@ -214,7 +215,7 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/veerlapati-ravi-varma-06b7a3335/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -222,10 +223,14 @@ AI/ML Engineer | Generative AI Enthusiast | LangChain & LangGraph Developer
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://leetcode.com/u/Ravi-varma/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-⭐ If you like AI, ML, GenAI, and DSA projects, feel free to connect and collaborate!
+⭐ Open to collaborations in AI, ML, Generative AI, RAG, Agentic AI, and Open Source Projects.
 </p>
